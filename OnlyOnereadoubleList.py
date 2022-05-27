@@ -1,3 +1,6 @@
+print('commit')
+
+
 class SecureList:
     def __init__(self, lst):
         self.lst = lst
