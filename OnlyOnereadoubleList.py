@@ -23,4 +23,3 @@ a = SecureList(base)
 
 print(a[0], base[0], "List returned wrong value.")
 print(a[0], base[1], "List returned wrong value.")
-
